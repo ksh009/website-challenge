@@ -3,10 +3,6 @@ body {
   background: linear-gradient(to bottom right, #dadada, royalblue);
 }
 
-.new-body {
-  height: 100vh;
-}
-
 h1 {
   font-size: 3rem;
   font-weight: bolder;
