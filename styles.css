@@ -1,5 +1,6 @@
 body {
   color: rgb(45, 45, 45);
+  background: linear-gradient(to bottom right, #dadada, royalblue);
 }
 
 .new-body {
@@ -16,8 +17,4 @@ h1 {
 .image-dimensions {
   width: 300px;
   height: 300px;
-}
-
-.bg-col {
-  background: linear-gradient(to bottom right, #dadada, royalblue);
 }
