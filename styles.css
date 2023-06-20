@@ -8,6 +8,13 @@ h1 {
   color: blue;
 }
 
+h2,
+h3,
+p,
+a {
+  color: rgb(45, 45, 45);
+}
+
 .image-dimensions {
   width: 300px;
   height: 300px;
