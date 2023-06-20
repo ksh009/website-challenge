@@ -3,3 +3,8 @@ h1 {
   text-transform: uppercase;
   color: blue;
 }
+
+.image-dimensions {
+  width: 300px;
+  height: 300px;
+}
